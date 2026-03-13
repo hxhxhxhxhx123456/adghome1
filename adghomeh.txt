@@ -1,0 +1,14 @@
+!Title: AWAvenue Ads Rule
+!--------------------------------------
+!Total lines: 909
+!Version: 1.6.9-release
+!Update time: 2026-02-10 15:15:29 UTC+8
+!Update content: remove “m1.ad.10010.com”
+
+!Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+!License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+
+
+||1500020991.vodplayer.wxamedia.com^
+||1500022744.vodplayer.wxamedia.com^
+||1500026601.vodplayer.wxamedia.com^
